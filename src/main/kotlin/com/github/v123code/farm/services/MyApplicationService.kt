@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.v123code.farm.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.v123code.farm.MyBundle
 
 class MyApplicationService {
 
